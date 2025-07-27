@@ -344,11 +344,11 @@ ol {
 }
 
 .img-login {
-  background-image: url("./assets/USUARIOS-Y-CLAVES-01.jpg");
+  background-image: url("./assets/USUARIOS-Y-CLAVES-01.jpeg");
   height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
-  /* background-position: center center; */
+  background-position: center center;
   background-attachment: fixed;
   background-size: cover;
 }
