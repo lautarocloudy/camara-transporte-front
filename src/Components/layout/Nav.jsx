@@ -43,7 +43,7 @@ const NavPriv = () => {
             <li className="front">
 
               {/* <ul className="ul-third"> */}
-              <li className="back"><NavLink to="https://menu-smart-ceo.netlify.app/">Menu SmartCeo </NavLink></li>
+              <li className="back"><NavLink to="#">sistema de gestion </NavLink></li>
               {/* </ul> */}
             </li>
           </li>
