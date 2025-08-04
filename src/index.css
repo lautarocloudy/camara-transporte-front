@@ -123,21 +123,21 @@ input[type="button"] {
 }
 
 input[type="text"],
+input[type="date"],
 textarea,
 select {
-  display: block;
-  margin: 0 auto;
-  margin-top: 15px;
-  padding: 12px;
-  border-radius: 20px;
-  background: #f6f7f9;
-  color: #454545;
-  width: 40%;
-  opacity: 4;
-  outline: 0;
-  border-color: transparent;
-  font-family: "system-ui";
-  border-color: #00327a;
+  display: block !important;
+  margin: 0 auto !important;
+  margin-top: 15px !important;
+  padding: 12px !important;
+  border-radius: 20px !important;
+  background: #f6f7f9 !important;
+  color: #454545 !important;
+  width: 40% !important;
+  outline: 0 !important;
+  border: 1px solid #00327a !important;
+  font-family: system-ui !important;
+  opacity: 1 !important;
 }
 
 .input-buscar {
